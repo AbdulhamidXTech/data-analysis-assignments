@@ -1,0 +1,74 @@
+Total Revenue,,,Month,Sales,,,Days of the Week,Sales,,,Pizza Name,Revenue,,,Pizza Category,Revenue,,,Pizza Size,Revenue,,,Hour,Sales
+817860.05,,,January,69793.3,,,Monday,107329.55,,,The Barbecue Chicken Pizza,42768,,,Chicken,195919.5,,,L,375318.7,,,1 PM,106065.7
+,,,February,65159.6,,,Tuesday,114133.8,,,The Big Meat Pizza,22968,,,Classic,220053.1,,,M,249382.25,,,10 AM,303.65
+,,,March,70397.1,,,Wednesday,114408.4,,,The Brie Carre Pizza,11588.5,,,Supreme,208197,,,S,178076.5,,,10 PM,22815.15
+,,,April,68736.8,,,Thursday,123528.5,,,The Calabrese Pizza,15934.25,,,Veggie,193690.45,,,XL,14076,,,11 AM,44935.8
+,,,May,71402.75,,,Friday,136073.9,,,The California Chicken Pizza,41409.5,,,Total Revenue,817860.05,,,XXL,1006.6,,,11 PM,1121.35
+,,,June,68230.2,,,Saturday,123182.4,,,The Chicken Alfredo Pizza,16900.25,,,,,,,Total Revenue,817860.05,,,12 PM,111877.9
+,,,July,72557.9,,,Sunday,99203.5,,,The Chicken Pesto Pizza,16701.75,,,,,,,,,,,2 PM,59201.4
+,,,August,68278.25,,,Total Sales,817860.05,,,The Classic Deluxe Pizza,38180.5,,,,,,,,,,,3 PM,52992.3
+,,,September,64180.05,,,,,,,The Five Cheese Pizza,26066.5,,,,,,,,,,,4 PM,70055.4
+,,,October,64027.6,,,,,,,The Four Cheese Pizza,32265.7,,,,,,,,,,,5 PM,86237.45
+,,,November,70395.35,,,,,,,The Greek Pizza,28454.1,,,,,,,,,,,6 PM,89296.85
+,,,December,64701.15,,,,,,,The Green Garden Pizza,13955.75,,,,,,,,,,,7 PM,72628.9
+,,,Total Sales,817860.05,,,,,,,The Hawaiian Pizza,32273.25,,,,,,,,,,,8 PM,58215.4
+,,,,,,,,,,,The Italian Capocollo Pizza,25094,,,,,,,,,,,9 AM,83
+,,,,,,,,,,,The Italian Supreme Pizza,33476.75,,,,,,,,,,,9 PM,42029.8
+,,,,,,,,,,,The Italian Vegetables Pizza,16019.25,,,,,,,,,,,Total Sales ,817860.05
+,,,,,,,,,,,The Mediterranean Pizza,15360.5,,,,,,,,,,,,
+,,,,,,,,,,,The Mexicana Pizza,26780.75,,,,,,,,,,,,
+,,,,,,,,,,,The Napolitana Pizza,24087,,,,,,,,,,,,
+,,,,,,,,,,,The Pepper Salami Pizza,25529,,,,,,,,,,,,
+,,,,,,,,,,,The Pepperoni Pizza,30161.75,,,,,,,,,,,,
+,,,,,,,,,,,"The Pepperoni, Mushroom, and Peppers Pizza",18834.5,,,,,,,,,,,,
+,,,,,,,,,,,The Prosciutto and Arugula Pizza,24193.25,,,,,,,,,,,,
+,,,,,,,,,,,The Sicilian Pizza,30940.5,,,,,,,,,,,,
+,,,,,,,,,,,The Soppressata Pizza,16425.75,,,,,,,,,,,,
+,,,,,,,,,,,The Southwest Chicken Pizza,34705.75,,,,,,,,,,,,
+,,,,,,,,,,,The Spicy Italian Pizza,34831.25,,,,,,,,,,,,
+,,,,,,,,,,,The Spinach and Feta Pizza,23271.25,,,,,,,,,,,,
+,,,,,,,,,,,The Spinach Pesto Pizza,15596,,,,,,,,,,,,
+,,,,,,,,,,,The Spinach Supreme Pizza,15277.75,,,,,,,,,,,,
+,,,,,,,,,,,The Thai Chicken Pizza,43434.25,,,,,,,,,,,,
+,,,,,,,,,,,The Vegetables + Vegetables Pizza,24374.75,,,,,,,,,,,,
+,,,,,,,,,,,Total Revenue,817860.05,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Season,Revenue,,,Pizza Ingredient,Revenue,,,Pizza Category ,Percentage,,,Average Quantity per Order,,,Total Order,,,Average Order Value,,,,,,
+Autum,198603,,,"?duja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic",15934.25,,,Chicken,23.96%,,,1.019621555,,,48620,,,16.82147367,,,,,,
+Spring,210536.65,,,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage",22968,,,Classic,26.91%,,,,,,,,,,,,,,,
+Summer,209066.35,,,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",42768,,,Supreme,25.46%,,,,,,,,,,,,,,,
+Winter,134952.9,,,"Brie Carre Cheese, Prosciutto, Caramelized Onions, Pears, Thyme, Garlic",11588.5,,,Veggie,23.68%,,,,,,,,,,,,,,,
+#N/A,64701.15,,,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",33476.75,,,Total Revenue,100.00%,,,,,,,,,,,,,,,
+Total Revenue,817860.05,,,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",25094,,,,,,,,,,,,,,,,,,,
+,,,,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic",34831.25,,,,,,,,,,,,,,,,,,,
+,,,,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",41409.5,,,,,,,,,,,,,,,,,,,
+,,,,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",43434.25,,,,,,,,,,,,,,,,,,,
+,,,,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce",16900.25,,,,,,,,,,,,,,,,,,,
+,,,,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",34705.75,,,,,,,,,,,,,,,,,,,
+,,,,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce",16701.75,,,,,,,,,,,,,,,,,,,
+,,,,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",30940.5,,,,,,,,,,,,,,,,,,,
+,,,,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce",16019.25,,,,,,,,,,,,,,,,,,,
+,,,,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic",25529,,,,,,,,,,,,,,,,,,,
+,,,,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",28454.1,,,,,,,,,,,,,,,,,,,
+,,,,"Mozzarella Cheese, Pepperoni",30161.75,,,,,,,,,,,,,,,,,,,
+,,,,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",26066.5,,,,,,,,,,,,,,,,,,,
+,,,,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",24374.75,,,,,,,,,,,,,,,,,,,
+,,,,"Pepperoni, Mushrooms, Green Peppers",18834.5,,,,,,,,,,,,,,,,,,,
+,,,,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",38180.5,,,,,,,,,,,,,,,,,,,
+,,,,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",24193.25,,,,,,,,,,,,,,,,,,,
+,,,,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",32265.7,,,,,,,,,,,,,,,,,,,
+,,,,"Sliced Ham, Pineapple, Mozzarella Cheese",32273.25,,,,,,,,,,,,,,,,,,,
+,,,,"Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic",16425.75,,,,,,,,,,,,,,,,,,,
+,,,,"Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions",15360.5,,,,,,,,,,,,,,,,,,,
+,,,,"Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce",15596,,,,,,,,,,,,,,,,,,,
+,,,,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",23271.25,,,,,,,,,,,,,,,,,,,
+,,,,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",13955.75,,,,,,,,,,,,,,,,,,,
+,,,,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",15277.75,,,,,,,,,,,,,,,,,,,
+,,,,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",24087,,,,,,,,,,,,,,,,,,,
+,,,,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",26780.75,,,,,,,,,,,,,,,,,,,
+,,,,Total Revenue,817860.05,,,,,,,,,,,,,,,,,,,
